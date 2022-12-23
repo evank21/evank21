@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**evank21/evank21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey what's up, I'm Evan 👋
+⚡️ Currently building: Fast websites
+<br>
+<br>
+💬 Ask me about React, Javascript, HTML, CSS...
+<br>
+<br>
+🌱 Currently learning: Golang
+<br>
+<br>
+📫 How to reach me: evanking11@gmail.com
+<br>
+<br>
+🎮 Favorite videogame of all time: Metal Gear Solid
+<br>
+<br>
+💻 Personal website: evanking.dev
