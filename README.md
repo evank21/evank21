@@ -8,7 +8,7 @@
 🌱 Currently learning: Golang
 <br>
 <br>
-📫 How to reach me: evanking11@gmail.com
+📫 How to reach me: evanking112@gmail.com
 <br>
 <br>
 🎮 Favorite videogame of all time: Metal Gear Solid
