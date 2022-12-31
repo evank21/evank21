@@ -2,7 +2,7 @@
 ⚡️ Currently building: Fast websites
 <br>
 <br>
-💬 Ask me about React, Javascript, HTML, CSS...
+💬 Ask me about Anything!
 <br>
 <br>
 🌱 Currently learning: Golang
